@@ -54,11 +54,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: mission
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: general
+    desc: "General"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Networking
+    desc: "Networking"
 
 # Social icons and sharing options
 #
