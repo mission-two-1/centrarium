@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Mission's Blog
-subtitle: "The technical ramblings of random"
+subtitle: "Technical Ramblings"
 email: noemail@email.com
 name: PF
 description: >
@@ -57,7 +57,7 @@ descriptions:
   - cat: general
     desc: "General"
 
-  - cat: Networking
+  - cat: networking
     desc: "Networking"
 
 # Social icons and sharing options
@@ -130,7 +130,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +179,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
