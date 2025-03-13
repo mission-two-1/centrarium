@@ -4,7 +4,7 @@ title:  "First post"
 date:   2025-03-12 08:43:59
 author: Mission
 categories: General
-tags: general,lt,comm,new
+tags: general
 ---
 
 Welcome to my blog! Here, I'll be sharing various technical topics and resources that pique my interest, including free training opportunities. Stay tuned for insightful posts and valuable tips!
